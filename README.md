@@ -1,2 +1,2 @@
 # Amazon-clone-
-Author - Riddhesh Pande
+Author - Riddhesh Pande(Still a learner)
